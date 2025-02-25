@@ -13,6 +13,12 @@ function Project() {
                                 <p>Developed a web app for searching and displaying Pokémon information using Next.js and Tailwind CSS.</p>
                             </div>
                         </Link>
+                        <Link href="https://hrm-system-gamma.vercel.app/" target='_blank'>
+                            <div className="bg-white p-6 shadow rounded-lg hover:scale-105 transition-transform duration-300">
+                                <h3 className="text-xl font-semibold">Project 2: HRM System App</h3>
+                                <p>Developed a web app to support HR staff operations.</p>
+                            </div>
+                        </Link>
                     </div>
                 </div>
             </section>
