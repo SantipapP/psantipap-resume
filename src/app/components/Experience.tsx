@@ -4,7 +4,7 @@ function Experience() {
     return (
         <>
             <section className="max-w-4xl mx-auto py-16 px-6">
-                <h2 className="text-3xl font-bold m-4">Work Experience</h2>
+                <h2 className="text-3xl font-bold">Work Experience</h2>
                 <div className="space-y-6">
                     <div>
                         <h3 className="text-xl font-semibold">Software Engineer - Laem Chabang International Terminal Co., Ltd.</h3>
